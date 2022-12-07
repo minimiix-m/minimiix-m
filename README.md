@@ -12,6 +12,6 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minimiix-m&theme=highcontrast)](https://github.com/prokittikun/minimiix-m)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minimiix-m&theme=highcontrast)](https://github.com/minimiix-m/minimiix-m)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minimiix-m&theme=highcontrast)](https://github.com/prokittikun/minimiix-m)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minimiix-m&theme=highcontrast)](https://github.com/minimiix-m/minimiix-m)
