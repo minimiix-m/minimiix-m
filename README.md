@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my Github</h3>
 
 <p align="center">
-<img src="https://lanyard-profile-readme.vercel.app/api/828642352259661834">
+<img src="https://lanyard-profile-readme.vercel.app/api/341341394700337152">
 </p>
 
 <p align="center"> <img src="https://count.getloli.com/get/@minimiix-m?theme=rule34" alt="opecgame" /> </p>
