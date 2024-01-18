@@ -14,4 +14,12 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=minimiix-m&show_icons=true&locale=en&theme=onedark" alt="minimiix-m" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minimiix-m&theme=onedark" alt="minimiix-m" /></p>
 
+### Public Project Analytics:
 
+<a href="https://github.com/Azael-Dev">
+  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minimiix-m&theme=github_dark"/>
+  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=minimiix-m&theme=github_dark"/>
+  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=minimiix-m&theme=github_dark&utcOffset=7"/>
+  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minimiix-m&theme=github_dark"/>
+  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=minimiix-m&theme=github_dark"/>
+</a>
