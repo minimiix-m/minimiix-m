@@ -31,7 +31,7 @@
 
 ### Public Project Analytics:
 
-<a href="https://github.com/Azael-Dev">
+<a href="https://github.com/minimiix-m">
   <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minimiix-m&theme=github_dark"/>
   <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=minimiix-m&theme=github_dark"/>
   <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=minimiix-m&theme=github_dark&utcOffset=7"/>
